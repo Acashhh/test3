@@ -1,0 +1,49 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.c1{
+    padding: 30px;
+}
+.c2{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.c3{
+
+    padding: 30px;
+    font-size: 25px;
+}
+
+.btn{
+    padding: 10px;
+    font-size: 25px;
+    
+}
+.contb{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 50px;
+    
+}
+.contb1{
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+.b1{
+    padding: 20px;
+    font-size: 70px;
+    
+}
+.b2{
+    padding: 10px;
+    font-size: 20px;
+}
+.b3{
+    padding: 20px;
+}
